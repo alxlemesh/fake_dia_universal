@@ -1,0 +1,19 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 24 24"
+    id="vector">
+    <path
+        id="path_1"
+        d="M 3 3 L 15 3 L 15 5 L 5 5 L 5 19 L 13 19 L 13 15 L 15 15 L 15 21 L 3 21 L 3 3 Z"
+        fill="#000000"
+        fill-rule="evenodd"/>
+    <path
+        id="path_2"
+        d="M 18.75 11.021 L 16.778 8.486 L 18.193 7.071 L 22 12.021 L 18.193 16.971 L 16.778 15.557 L 18.75 13.021 L 9 13.021 L 9 11.021 L 18.75 11.021 Z"
+        fill="#000000"
+        fill-rule="evenodd"/>
+    <path
+        id="path_4"
+        d="M 13 3 L 15 3 L 15 9 L 13 9 Z"
+        fill="#000000"/>
+</svg>

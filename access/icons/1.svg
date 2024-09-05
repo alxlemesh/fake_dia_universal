@@ -1,0 +1,35 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 24 24"
+    id="vector">
+    <defs>
+        <clipPath id="clip_path">
+            <path d="M 0 0 L 24 0 L 24 24 L 0 24 Z"/>
+        </clipPath>
+        <clipPath id="clip_path_3">
+            <path d="M 0 0 L 24 0 L 24 24 L 0 24 Z"/>
+        </clipPath>
+        <clipPath id="clip_path_5">
+            <path d="M 0 0 L 24 0 L 24 24 L 0 24 Z"/>
+        </clipPath>
+    </defs>
+    <g id="group_2">
+        <path
+            id="path"
+            clip-path="url(#clip_path)"
+            d="M 8 12 M 4 12 C 4 10.94 4.422 9.921 5.172 9.172 C 5.921 8.422 6.94 8 8 8 C 9.06 8 10.079 8.422 10.828 9.172 C 11.578 9.921 12 10.94 12 12 C 12 13.06 11.578 14.079 10.828 14.828 C 10.079 15.578 9.06 16 8 16 C 6.94 16 5.921 15.578 5.172 14.828 C 4.422 14.079 4 13.06 4 12"
+            fill="#00000000"
+            stroke="#000000"
+            stroke-width="2"/>
+        <path
+            id="path_3"
+            clip-path="url(#clip_path_3)"
+            d="M 12 11 L 21 11 L 21 13 L 12 13 Z"
+            fill="#000000"/>
+        <path
+            id="path_5"
+            clip-path="url(#clip_path_5)"
+            d="M 19 13 L 19 16 L 17 16 L 17 13 Z"
+            fill="#000000"/>
+    </g>
+</svg>

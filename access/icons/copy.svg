@@ -1,0 +1,17 @@
+<svg id="vector" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16.01 16.01">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="path_2" data-name="path 2" class="cls-1" d="M6,6h9v9H6Z"/>
+  <path id="path_3" data-name="path 3" class="cls-2" d="M2,2H9V4h2V0H0V11H4V9H2Z"/>
+</svg>
