@@ -1,0 +1,24 @@
+{
+  "name": "fake_dia_universal",
+  "version": "1.0.0",
+  "description": "For Android: download simple http server from google play and run on this folder.  To update data , change values.js and photos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxlemesh/fake_dia_universal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alxlemesh/fake_dia_universal/issues"
+  },
+  "homepage": "https://github.com/alxlemesh/fake_dia_universal#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "serve-index": "^1.9.1"
+  }
+}
